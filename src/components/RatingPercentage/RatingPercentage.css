@@ -1,0 +1,6 @@
+.circular-progress::before {
+    content: "";
+    position: absolute;
+    border-radius: 50%;
+    
+}

@@ -1,0 +1,11 @@
+.welcome-back{
+    background-image: url('../../assets/background.jpeg');
+    background-size: cover;
+}
+.logo{
+    color: #118F80;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 700;
+}

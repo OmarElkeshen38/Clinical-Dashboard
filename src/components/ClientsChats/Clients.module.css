@@ -1,0 +1,57 @@
+.ClientsChats{
+    border-radius: 10px;
+    background: #DADADA;
+    box-shadow: 0px 8.80872px 22.02181px 0px rgba(0, 0, 0, 0.05), 0px 3.52349px 8.80872px 0px rgba(0, 0, 0, 0.25), 0px 8.80872px 48.44799px 0px rgba(0, 0, 0, 0.05);
+    cursor: pointer;
+}
+.chat{
+    border-radius: 10px;
+    background: #FFF;
+    transition: all 0.3s;
+}
+.chat:hover{
+    background: #8BC4B5;
+}
+.clientName{
+    color: #252525;
+    font-size: 15.856px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.iconBtn{
+    background-color: transparent;
+    border: none;
+}
+.boxMaasage{
+    padding: 12px 16px;
+    border-radius: 10px;
+    background: #F1F1F1;
+}
+.massageSend{
+    background-color: transparent !important;
+    border: none !important;
+    color: rgba(0, 0, 0, 0.56);
+    font-size: 10px;
+    font-weight: 500;
+}
+.reverseMessage{
+    padding: 12px;
+    border-radius: 10px;
+    background: #8BC4B5;
+    color: #141D21;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.chatHeader{
+    padding: 20px 16px;
+    border-radius: 10px;
+    background: #EDFFFA;
+}
+.userName{
+    color: #0B0B0C;
+text-align: center;
+font-size: 16px;
+font-weight: 500;
+text-transform: capitalize;
+}

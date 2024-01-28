@@ -1,0 +1,143 @@
+.subTitle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.titleText p {
+    font-size: 14px;
+}
+
+.titleText h2 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.titleBtn Button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border: none;
+    padding: 11px 15px 11px 15px !important;
+    border-radius: 10px;
+    color: #DAFFF5;
+    background-color: #224A46; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to right, #224A46 , #109384 , #0BA996);
+    font-size: 15px;
+}
+
+
+.carrts {
+    margin: 15px 0;
+    display: flex;
+    gap: 25px;
+}
+
+.box {
+    width: 25%;
+}
+
+.cartBox {
+    border: 1px solid #141D21;
+    border-radius: 10px 10px 0 0;
+    text-align: center;
+}
+
+.cartBox i {
+    border: 2px solid #141D21;
+    padding: 7px 9px;
+    font-size: 18px;
+    border-radius: 50%;
+    margin: 10px 0;
+}
+
+.cartBox h2 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.cartBox p {
+    font-size: 14px;
+    color: #636161;
+}
+
+.link {
+    border-bottom: 1px solid #141D21;
+    border-right: 1px solid #141D21;
+    border-left: 1px solid #141D21;
+    border-radius: 0px 0px 10px 10px;
+    text-align: center;
+    background-color: #8BC4B5;
+}
+
+.link a {
+    font-size: 12px;
+    color: #141D21;
+    text-decoration: none;
+}
+
+.link i {
+    font-size: 12px;
+    color: #141D21;
+    margin: 0px 7px;
+}
+
+
+.tableSubTitle {
+    margin: 25px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tableSubTitle h2 {
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.tableSubTitle button {
+    padding: 7px 25px;
+    border: 0.5px solid #141D21;
+    border-radius: 10px;
+    background-color: transparent;
+    font-size: 14px;
+}
+
+
+.medTable {
+    border: 1px solid #636161;
+    border-radius: 10px !important;
+    background-color: #fff;
+    padding: 0 !important;
+    margin: 20px 0px;
+}
+
+table tr {
+    padding: 12px 0px;
+    margin: 0;
+    border: 0 !important;
+    border-bottom: 1px solid #636161 !important;
+    border-radius: 0;
+}
+
+tbody tr:last-child {
+    border-bottom: none !important;
+}
+
+table th {
+    font-size: 16px;
+    font-weight: 600;
+    color: #141D21;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+table td {
+    font-size: 14px;
+    font-weight: 400;
+    color: #141D21;
+    text-transform: capitalize;
+    text-align: center;
+}

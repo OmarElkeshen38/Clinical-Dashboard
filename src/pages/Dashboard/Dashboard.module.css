@@ -1,0 +1,55 @@
+.title{
+    color: #141D21;
+    font-size: 24px;
+    font-weight: 700;
+}
+.summary{
+    color: #9F9F9F;
+    font-size: 20px;
+    font-weight: 400;
+}
+.chartTitle{
+    color: #141D21;
+    font-size: 20px;
+    font-weight: 700;
+}
+.chartBackground{
+    border-radius: 15px;
+    background: rgba(247, 249, 251, 0.80);
+    height: 325px !important;
+}
+.barChartTitle{
+    color: #141D21;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.472px;
+    text-transform: uppercase;
+}
+.tableHeader{
+    color: #141D21;
+    font-size: 20px;
+    font-weight: 600;
+}
+.table{
+    border-radius: 15px;
+    background: rgba(247, 249, 251, 0.80);
+    padding: 32px 45px 45px 45px;
+}
+.btn{
+    color: #224A46;
+    font-size: 16px;
+    font-weight: 500;
+    display: flex;
+    width: 156px;
+    height: 36px;
+    padding: 10px 8px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 21px;
+    border: 1px solid #224A46;
+    background-color: transparent;
+}
+.text-color{
+    color: #116D64;
+}

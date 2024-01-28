@@ -1,0 +1,48 @@
+.card{
+    border-radius: 15px;
+    border: none !important;
+}
+.icon{
+    border-radius: 50%;
+    padding: 6px;
+}
+.card.first{
+    background: #FBDEBB;
+}
+
+.icon.first{
+    background: #FEB157;
+}
+.card.second{
+    background: #BDF3F6;
+}
+
+.icon.second{
+    background: #3BBDC4;
+}
+.card.third{
+    background: #FFD8D8;
+}
+
+.icon.third{
+    background: #FF6F6F;
+}
+.card.fourth{
+    background: #E3CDFF;
+}
+
+.icon.fourth{
+    background: #A765FA;
+}
+
+.heading-total{
+    color:  #141D21;
+    font-size: 20px;
+    font-weight: 500;
+}
+.count{
+    color:  #141D21;
+    font-size: 32px;
+    font-weight: 500;
+
+}

@@ -1,0 +1,47 @@
+{
+  "name": "clinical-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@canvasjs/charts": "^3.7.26",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "@mui/icons-material": "^5.14.16",
+    "@mui/material": "^5.14.16",
+    "@mui/x-charts": "^6.18.0",
+    "apexcharts": "^3.44.0",
+    "bootstrap": "^5.3.2",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.7.1",
+    "mdb-react-ui-kit": "^6.3.0",
+    "react": "^18.2.0",
+    "react-apexcharts": "^1.4.1",
+    "react-bootstrap": "^2.9.0",
+    "react-dom": "^18.2.0",
+    "react-js-pagination": "^3.0.3",
+    "react-router-dom": "^6.18.0",
+    "vite-plugin-svgr": "^4.1.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@svgr/webpack": "^8.1.0",
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "sass": "^1.69.5",
+    "vite": "^4.4.5"
+  }
+}

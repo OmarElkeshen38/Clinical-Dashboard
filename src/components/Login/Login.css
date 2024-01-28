@@ -1,0 +1,47 @@
+.form-header{
+    color:  #224A46;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 1.44px;
+}
+.form-label{
+    color: #224A46;
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.input-password,
+.input-email{
+    border-radius: 10px !important;
+    border: 2px solid #3DB6A8 !important;
+    background: #FFF;
+    padding: 20px !important;
+    font-size: 20px !important; 
+}
+
+.form-control:focus {
+    box-shadow: none !important;
+}
+  
+.custom-input{
+    border: none !important;
+    padding: 0 !important;
+    font-size: 20px !important; 
+}
+.link-forget{
+    color: #224A46;
+    font-size: 24px;
+    font-weight: 300;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+}
+.btn-login{
+    color: #224A46;
+    font-size: 36px;
+    font-weight: 600;
+    padding: 8px;
+    border: none;
+    border-radius: 10px;
+    background: #8BC4B5;
+}
